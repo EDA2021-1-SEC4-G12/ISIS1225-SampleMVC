@@ -1,5 +1,19 @@
 #ISIS1225 - Estructura de un proyecto
 
+## Integrantes
+
+### Samuel Torres Florez
+Correo: s.torresf@uniandes.edu.co
+
+Código: 201632770
+### Alejandro Diaz-Granados
+
+Correo: a.diaszgranadosb@uniandes.edu.co
+
+Código: 
+
+#
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
