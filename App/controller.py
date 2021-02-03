@@ -25,7 +25,7 @@ sys.path.append('../')
 
 
 import config as cf
-import App.model as model
+import model as model
 import csv
 
 
@@ -58,6 +58,13 @@ def loadTags(filename):
 
 def loadBooksTags(catalog):
     """
-    TODO
+    Carga los tags de libros del archivo y los agrega a la lista de tags de libros
     """
+    booktagscatalogue = cf.data_dir + catalog
+    input_file = csv.DictReader(open(booktagscatalogue, encoding='utf-8'))
+    BooksTags = model.createTagList()
+    for tag in input_file:
+        model.addTag(BooksTags,tag)
+    
+    return BooksTags
     pass
