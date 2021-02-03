@@ -20,8 +20,12 @@
  * along withthis program.  If not, see <http://www.gnu.org/licenses/>.
  """
 
+import sys
+sys.path.append('../')
+
+
 import config as cf
-import model
+import App.model
 import csv
 
 
