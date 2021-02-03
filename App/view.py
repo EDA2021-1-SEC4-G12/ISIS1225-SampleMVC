@@ -23,6 +23,7 @@
  * Dario Correal - Version inicial
  """
 
+import sys
 import config as cf
 import App.controller as controller
 from DISClib.ADT import list as lt
