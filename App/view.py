@@ -24,7 +24,7 @@
  """
 
 import config as cf
-import controller
+import App.controller as controller
 from DISClib.ADT import list as lt
 assert cf
 

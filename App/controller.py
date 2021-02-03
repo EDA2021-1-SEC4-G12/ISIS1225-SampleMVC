@@ -25,7 +25,7 @@ sys.path.append('../')
 
 
 import config as cf
-import App.model
+import App.model as model
 import csv
 
 
