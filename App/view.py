@@ -24,6 +24,8 @@
  """
 
 import sys
+sys.path.append('../')
+
 import config as cf
 import App.controller as controller
 from DISClib.ADT import list as lt
