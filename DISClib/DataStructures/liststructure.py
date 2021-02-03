@@ -23,6 +23,8 @@
  * Dario Correal
  *
  """
+import sys
+sys.path.append('../')
 
 import config
 from DISClib.Utils import error as error

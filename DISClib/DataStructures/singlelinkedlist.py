@@ -23,6 +23,9 @@
  *
  """
 
+import sys
+sys.path.append('../')
+
 import config
 from DISClib.DataStructures import listnode as node
 from DISClib.Utils import error as error
