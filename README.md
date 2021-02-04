@@ -10,7 +10,7 @@ Código: 201632770
 
 ### Alejandro Diaz-Granados
 
-Correo: a.diaszgranadosb@uniandes.edu.co
+Correo: a.diazgranadosb@uniandes.edu.co
 
 Código: 202021008
 
